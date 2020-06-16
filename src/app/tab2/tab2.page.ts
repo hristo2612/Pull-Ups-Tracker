@@ -1,4 +1,4 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component } from '@angular/core';
 import TimeAgo from 'javascript-time-ago'
 import en from 'javascript-time-ago/locale/en'
 import { Storage } from '@ionic/storage';
@@ -9,8 +9,6 @@ import { Storage } from '@ionic/storage';
   styleUrls: ['tab2.page.scss']
 })
 export class Tab2Page {
-  @ViewChild('barChart') barChart;
-
   history: any = [];
   constructor(private storage: Storage) { }
 

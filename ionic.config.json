@@ -1,7 +1,8 @@
 {
   "name": "pull-up-calculator",
   "integrations": {
-    "capacitor": {}
+    "capacitor": {},
+    "cordova": {}
   },
   "type": "angular"
 }
