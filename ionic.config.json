@@ -1,0 +1,7 @@
+{
+  "name": "pull-up-calculator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
