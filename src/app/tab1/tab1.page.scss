@@ -1,0 +1,39 @@
+ion-content {
+    --ion-background-color:#1976d2;
+}
+
+.title {
+    margin: 100px;
+    color: white;
+    text-align: center;
+    font-size: 37px;
+}
+
+.count {
+    color: white;
+    text-align: center;
+    font-size: 69px;
+    margin: 30px;
+}
+
+.plus-minus {
+    color: white;
+    display: flex;
+    margin-top: 60px;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.plus {
+    color: white;
+    margin: 50px;
+}
+
+.minus {
+    color: white;
+    margin: 50px;
+}
+
+* {
+    font-family: "Fredoka One";
+}
