@@ -3,8 +3,8 @@
 <p style="text-align: center;">Keep track of your pull-ups. ( Ionic & Angular )</p>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
-  <img style="width: 200px; height: auto; margin: 20px;" src="showcase/main.png" />
-  <img style="width: 200px; height: auto; margin: 20px;" src="showcase/track.png" />
+  <img style="width: 400px; height: auto; margin: 20px;" src="showcase/main.png" />
+  <img style="width: 400px; height: auto; margin: 20px;" src="showcase/track.png" />
 </div>
 
 
